@@ -6,6 +6,11 @@
 
 Agent Skill for Liu Yao (six-line casting): form hexagrams from six casts with an embedded Node script, then interpret with method pages and Zhouyi chapters from Wiki. One matter, one cast. Do not invent classic quotations.
 
+## Endpoints
+
+- Agent: https://www.mystilink.com
+- Theory Wiki: https://wiki.mystilink.com (API `/api/v1`)
+
 ## Delivery type
 
 **Agent Skill** package. Does **not** implement the calculator language matrix. Casting logic is embedded in `scripts/` only (no separate Liu Yao calculator repository).

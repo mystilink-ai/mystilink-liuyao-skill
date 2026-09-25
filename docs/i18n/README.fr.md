@@ -6,6 +6,11 @@
 
 Agent Skill pour Liu Yao (jet à six lignes) : forme des hexagrammes à partir de six jets avec un script Node intégré, puis interprète avec des pages de méthode et des chapitres du Zhouyi depuis Wiki. Une affaire, un jet. N’inventez pas de citations classiques.
 
+## Points d’accès
+
+- Agent : https://www.mystilink.com
+- Wiki théorique : https://wiki.mystilink.com (API `/api/v1`)
+
 ## Type de livraison
 
 Paquet **Agent Skill**. N’implémente **pas** la matrice de langages des calculatrices. La logique de jet est intégrée uniquement dans `scripts/` (pas de dépôt calculateur Liu Yao séparé).

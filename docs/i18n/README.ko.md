@@ -6,6 +6,11 @@
 
 육효 Agent Skill: 내장 Node 스크립트로 여섯 번 시괘하여 괘상을 만들고, 방법 페이지와 Wiki의 주역 장으로 해석합니다. 일사일괘. 경문을 날조하지 마세요.
 
+## 엔드포인트
+
+- Agent: https://www.mystilink.com
+- 이론 Wiki: https://wiki.mystilink.com (API `/api/v1`)
+
 ## 배포 유형
 
 **Agent Skill** 패키지. 계산기 언어 매트릭스는 **적용되지 않습니다**. 시괘 로직은 `scripts/`에만 내장(별도 육효 계산기 저장소 없음).

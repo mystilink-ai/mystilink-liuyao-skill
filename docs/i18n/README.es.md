@@ -6,6 +6,11 @@
 
 Agent Skill para Liu Yao (lanzamiento de seis líneas): forma hexagramas a partir de seis lanzamientos con un script Node embebido, luego interpreta con páginas de método y capítulos del Zhouyi desde Wiki. Un asunto, un lanzamiento. No invente citas clásicas.
 
+## Puntos de acceso
+
+- Agent: https://www.mystilink.com
+- Wiki teórica: https://wiki.mystilink.com (API `/api/v1`)
+
 ## Tipo de entrega
 
 Paquete **Agent Skill**. **No** implementa la matriz de lenguajes de calculadoras. La lógica de lanzamiento está embebida solo en `scripts/` (sin repositorio calculador Liu Yao separado).

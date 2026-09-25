@@ -6,6 +6,11 @@
 
 六爻向け Agent Skill：内嵌 Node スクリプトで六回の起卦から卦象を形成し、方法ページと Wiki の周易章で解釈します。一事一卦。経文を捏造しないでください。
 
+## エンドポイント
+
+- Agent：https://www.mystilink.com
+- 理論 Wiki：https://wiki.mystilink.com（API `/api/v1`）
+
 ## 配布形態
 
 **Agent Skill** パッケージ。計算機の言語マトリクスは **適用しません**。起卦ロジックは `scripts/` のみに内嵌（独立した六爻計算機リポジトリなし）。

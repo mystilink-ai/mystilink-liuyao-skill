@@ -6,6 +6,11 @@
 
 六爻 Agent Skill：用内嵌 Node 脚本完成六次起卦并形成卦象，再结合方法页与 Wiki 中的周易篇章解读。一事一卦。禁止编造经文。
 
+## 相关地址
+
+- Agent：https://www.mystilink.com
+- 理论 Wiki：https://wiki.mystilink.com（API `/api/v1`）
+
 ## 交付类型
 
 **Agent Skill** 包。**不适用**计算器语言矩阵。起卦逻辑仅内嵌于 `scripts/`（无独立六爻计算器仓库）。
