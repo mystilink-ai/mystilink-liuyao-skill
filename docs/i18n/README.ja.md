@@ -69,6 +69,10 @@ GET https://wiki.mystilink.com/api/v1/pages/shared.work.yijing.gua.01-qian?local
 - 内嵌起卦ヘルパーは製品の銭貨→爻意味の簡略実装
 - Wiki locale 省略 → `en`
 
+## バージョン
+
+スキルのバージョンは `0.1.0`。`SKILL.md` の `metadata.mystilink.version` に記録し、[CHANGELOG.md](../../CHANGELOG.md) にも記載しています。
+
 ## ライセンス
 
 MIT。[LICENSE](../../LICENSE) を参照。

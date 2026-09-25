@@ -69,6 +69,10 @@ GET https://wiki.mystilink.com/api/v1/pages/shared.work.yijing.gua.01-qian?local
 - 內嵌起卦助手為產品錢幣→爻語義的簡化實作
 - Wiki 省略 locale → `en`
 
+## 版本
+
+技能版本 `0.1.0`，記錄於 `SKILL.md` 的 `metadata.mystilink.version`，並見 [CHANGELOG.md](../../CHANGELOG.md)。
+
 ## 授權
 
 MIT。見 [LICENSE](../../LICENSE)。

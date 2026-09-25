@@ -69,6 +69,10 @@ Details: `SKILL.md`. Orientation: `references/overview.md`.
 - Embedded cast helper mirrors product coin→line semantics in simplified form
 - Wiki locale omit → `en`
 
+## Version
+
+Skill version `0.1.0`, recorded in `SKILL.md` under `metadata.mystilink.version` and in [CHANGELOG.md](CHANGELOG.md).
+
 ## License
 
 MIT. See [LICENSE](LICENSE).

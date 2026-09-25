@@ -69,6 +69,10 @@ Detalles: `SKILL.md`. Orientación: `references/overview.md`.
 - El ayudante de lanzamiento embebido refleja la semántica moneda→línea del producto en forma simplificada
 - Locale Wiki omitida → `en`
 
+## Versión
+
+Versión de la skill: `0.1.0`, registrada en `SKILL.md` bajo `metadata.mystilink.version` y en [CHANGELOG.md](../../CHANGELOG.md).
+
 ## Licencia
 
 MIT. Véase [LICENSE](../../LICENSE).

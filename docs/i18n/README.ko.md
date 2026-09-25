@@ -69,6 +69,10 @@ GET https://wiki.mystilink.com/api/v1/pages/shared.work.yijing.gua.01-qian?local
 - 내장 시괘 도우미는 제품 동전→효 의미의 단순 구현
 - Wiki locale 생략 → `en`
 
+## 버전
+
+스킬 버전은 `0.1.0`이며, `SKILL.md`의 `metadata.mystilink.version`에 기록되고 [CHANGELOG.md](../../CHANGELOG.md)에도 정리되어 있습니다.
+
 ## 라이선스
 
 MIT. [LICENSE](../../LICENSE) 참고.

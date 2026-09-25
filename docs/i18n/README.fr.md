@@ -69,6 +69,10 @@ Détails : `SKILL.md`. Orientation : `references/overview.md`.
 - L’aide de jet intégrée reflète la sémantique pièce→ligne du produit sous forme simplifiée
 - Locale Wiki omise → `en`
 
+## Version
+
+Version du skill : `0.1.0`, consignée dans `SKILL.md` sous `metadata.mystilink.version` et dans [CHANGELOG.md](../../CHANGELOG.md).
+
 ## Licence
 
 MIT. Voir [LICENSE](../../LICENSE).
