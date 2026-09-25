@@ -9,6 +9,7 @@ compatibility: "node >= 18; network recommended for wiki + classics"
 metadata:
   mystilink:
     system: liuyao
+    version: 0.1.0
     about: "Local six-line coin cast script plus optional Mystilink Wiki method pages and Zhouyi classics."
     wiki_base: https://wiki.mystilink.com
     wiki_api: /api/v1
